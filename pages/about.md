@@ -2,7 +2,7 @@
 # See project.yml for variables.
 ---
 # About
-_{tag line- e.g. "Building community around and gathering knowledge about the world’s stoneflies"}_
+_Building community around and gathering knowledge about the world’s leaf-footed bugs_
 
 ## Overview
 The _{{ app:project_name }}_ file offers a community-curated collection of richly-cited and annotated information on the taxonomy of Earth’s {{app:focal_taxon_common_name}}. Data found here come from a collaboratively compiled database originating in an instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup.org). See [Contribute](#contribute-or-get-help) for how you can participate. This site is built using TaxonPages, [learn more and get help](https://github.com/SpeciesFileGroup/taxonpages). For more on how this site is built please see the [Software](#software) section.
@@ -19,26 +19,52 @@ As of August 2023 all data in the former Species File Websites were frozen and s
 
 ### Support and funding
 _This Species File functionality and content is serviced in part by the Species File Group._
-
-Through the generous support of ... we ...
-Or Funding needed to publish our latest information ... or address data gaps
-
-- {Society Logo } - Society
-- Science Foundation {requires disclaimer}
-- An organization other entity
+* The Coreoidea Species File Team has received funding from The Leverhulme Trust.
 
 ## Contributors
 
-|name|role|
-|----|----|
-| First name Last Name | Author |
-| First name Last Name\* | Author |
-| First name Last Name | Editor |
-| First name Last Name | TaxonWorks Project Manager |
-| First name Last Name | Developer |
-| First name Last Name | Community contributor |
+|name|role|affiliation|note|ORCiD|
+|:----|:----|:----|:----|:----|
+| Mick Webb | Author, Founder | Curator of Auchenorrhyncha and Heteroptera, The Natural History Museum, London | | [ORCiD](https://orcid.org/0000-0002-1312-6142)|
+| Bill Dolling| Compiler, Core Team ||||
+| Valérie Lemaître | Editor and Information Assistant, Core Team |||[ORCiD](https://orcid.org/0000-0003-4802-2711)|
+| Laurence Livermore | Editor and Photographer, Core Team  |||[ORCiD](https://orcid.org/0000-0002-7341-1842)|
+| Tristan Bantock | Photographer and Editor (2011-2012), Support Team ||||
+| Paul Brock| Editor (2011) and Photographer, Support Team ||||
+| Shaheenara Chowdhury| Photographer (2012), Support Team ||||
+| Stuart Cole| Editor (2012) and Photographer (2014), Support Team ||||
+| Holly Dawson| Photographer (2011), Support Team ||||
+| Elizabeth Livermore| Photographer (2007) and Image Editor (2011-2012), Support Team ||||
+| Joan Marmont| Image Editor (2010), Support Team ||||
+| Malin Nikunlassi| Logo Designer (2010), Support Team ||||
+| Gerardo Mazzetta| Photographer (2012), Support Team ||||
+| Pierre Pionnié|Literature Assistant (2010), Support Team ||||
+| Rose Stainthorpe| Photographer (2010-2011) , Support Team ||||
+| Ryan Patel | Curation Team ||||
+| Cynthia Byam-Cook | Curation Team ||||
+| Shaheenara Chowdhury | Curation Team ||||
+| Ben Fisher (2006) | Curation Team ||||
+| Olivia Fraser-Cobbett (2010) | Curation Team ||||
+| Sarah Hickman (2011) | Curation Team ||||
+| Ken Merrifield | Curation Team ||||
+| Rita Merrifield | Curation Team ||||
+| Gwen Owen Jones (2011) | Curation Team ||||
+| Norman Parr | Curation Team ||||
+| Akshay Pau (2012) | Curation Team ||||
+| Derice Reid (2012) | Curation Team ||||
+| Cyril Smith | Curation Team ||||
+| Naomi Tobi | Curation Team ||||
+| Charlotte Willoughby (2012) | Curation Team ||||
 
-_A \* denotes a past contributor, now inactive._
+* _An \* next to a name denotes a past contributor, now inactive._
+* Names of the team members are given in alphabetical order of surname; all contributions are essential to the success of the project and greatly appreciated. 
+* In 2006, Ryan Patel constructed the first (Access) database to record the BMNH types of Coreidae. Subsequently, Shaheenara Chowdhury researched the original descriptions and assessed the status of the types while entering the data in the database. Thereafter, she generated type labels for the collection from the database. Other volunteers and work experiences (see Curation Team) were involved between 2006-2012 to compile a card catalogue, rearrange all Coreoidea families in the BMNH collection and record the data of numerous types.
+
+### Coreoidea Specialists
+|name|expertise area|photo|
+|:----|:----|----|
+| Harry Brailovsky | World Coreidae specialist ||
+| Richard Packauskas | New World Coreidae specialist ||
 
 ## Contribute or get help
 _Projects of this nature require expertise in many different areas, not only on the taxa being treated. If you can imagine a way to contribute we'd love to hear about it._
@@ -78,6 +104,7 @@ About our group structure, how the rules behind joining and participating are se
 
 ## Terms of use
 _Copyright guidance._
+Except where noted, content on this site licensed under the terms of the [Creative Commons Attribution License (CC-BY)](LINK). Images and other media, except where noted, please use under the [CC BY](LINK) license.
 
 <div class="flex items-center">
   <a href="{{ app:copyright_image_link }}">
