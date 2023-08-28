@@ -4,6 +4,6 @@
   project_authors: 'Webb M, Dolling B, Lemaître V, Livermore L.'
   project_url: 'https://coreoida.speciesfile.org'
   project_old_url: 'https://coreoidea.archive.speciesfile.org'
-  focal_taxon: 'coreoidea.'
+  focal_taxon: 'coreoidea'
   focal_taxon_common_name: 'leatherbugs'
   contact_email: 'mdwebb04@gmail.com'
