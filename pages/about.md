@@ -102,16 +102,18 @@ About our group structure, how the rules behind joining and participating are se
 | Site name | [site name]{site url} | Note |
 | Site name | [site name]{site url} | Note |
 
-## Terms of use
-_Copyright guidance._
+## Terms of use (Copyright guidance)
 Except where noted, content on this site licensed under the terms of the [Creative Commons Attribution License (CC-BY)](LINK). Images and other media, except where noted, please use under the [CC BY](LINK) license.
 
-<div class="flex items-center">
-  <a href="{{ app:copyright_image_link }}">
+<div class="flex items-center gap-2">
+  <a
+    class="min-w-fit"
+    href="{{ app:copyright_image_link }}"
+  >
     <img 
       src="{{ app:copyright_image }}" 
       alt="copyright" 
-      class="m-0 mr-2"
+      class="m-0"
     >
   </a>
   <span>{{ app:copyright_text }}</span>
