@@ -1,7 +1,7 @@
 ---
   project_name: 'Coreoidea Species File'
-  project_citation: 'Coreoidea Species File'
-  project_authors: 'Webb M, Dolling B, Lemaître V, Livermore L.'
+  project_citation: 'Coreoidea Species File Online'
+  project_authors: 'CoreoideaSF Team'
   project_url: 'https://coreoida.speciesfile.org'
   project_old_url: 'https://coreoidea.archive.speciesfile.org'
   focal_taxon: 'coreoidea'
