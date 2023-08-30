@@ -103,7 +103,6 @@ About our group structure, how the rules behind joining and participating are se
 | Site name | [site name]{site url} | Note |
 
 ## Terms of use (Copyright guidance)
-Except where noted, content on this site licensed under the terms of the [Creative Commons Attribution License (CC-BY)](LINK). Images and other media, except where noted, please use under the [CC BY](LINK) license.
 
 <div class="flex items-center gap-2">
   <a
