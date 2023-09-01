@@ -17,4 +17,4 @@ Our [About](about) page contains an [overview](about#overview) and [history](abo
 <!--- add inline --->
 _Mick Webb, Valérie Lemaître, 2023-09_
 
-Welcome to our new Coreoidea Species File website. We look forward to your contriutions, the use of our data, and your feedback.
+Welcome to our new Coreoidea Species File website. We look forward to your contributions, the use of our data, and your feedback.
