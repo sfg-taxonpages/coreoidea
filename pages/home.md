@@ -7,7 +7,7 @@ The Coreoidea Species File database contains taxonomic and other information abo
 
 <autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/>
 
-_Try searching for "Acanthocephala", "Acanthocephala affinis", or start at [Hemiptera]({{app:project_url}}/otus/1172341/overview), [Coreidae]({{app:project_url}}/otus/1186750/overview), or [Acanthocephala]({{app:project_url}}/otus/1190351/overview)._
+_Try searching for "Acanthocephala", "Acanthocephala affinis", or start at [Hemiptera](/otus/1172341/overview), [Coreidae](/otus/1186750/overview), or [Acanthocephala](/otus/1190351/overview)._
 
 ## Discover more
 Our [About](about) page contains an [overview](about#overview) and [history](about#history) of the project, its data and [gaps](about#gaps-as-opportunity),<D-r> and information about the [team](about#team) and how _you_ can [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
