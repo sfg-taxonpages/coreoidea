@@ -3,7 +3,7 @@
   project_citation: 'Coreoidea Species File Online'
   project_authors: 'CoreoideaSF Team'
   project_url: 'https://coreoida.speciesfile.org'
-  project_old_url: 'https://coreoidea.archive.speciesfile.org'
+  project_old_url: 'http://coreoidea.archive.speciesfile.org'
   focal_taxon: 'coreoidea'
   focal_taxon_common_name: 'leatherbugs'
   contact_email: 'mdwebb04@gmail.com'
