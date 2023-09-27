@@ -5,7 +5,7 @@
 # {{ app:project_name }}
 The Coreoidea Species File database contains taxonomic and other information about all the leatherbugs of the world including valid names, their synonyms, bibliographic data, specimen data, images, sounds, and distributions across the world. A companion catalogue of the World Coreidae and Alydidae with all fossil taxa and more complete bibliographic references was published via Zootaxa. Our group works to build a comprehensive source for knowledge about the world’s leatherbugs. Our site seeks to include and serve an expanding group of stakeholders such as taxonomists, ecologists, policy makers, and educators.
 
-<autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/>
+<autocomplete-otu class="w-full sm:w-96" placeholder="Search by taxon name"/>
 
 _Try searching for "Acanthocephala", "Acanthocephala affinis", or start at [Hemiptera](/otus/1172341/overview), [Coreidae](/otus/1186750/overview), or [Acanthocephala](/otus/1190351/overview)._
 
