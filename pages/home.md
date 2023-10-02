@@ -16,7 +16,7 @@ _Try searching for "Acanthocephala", "Acanthocephala affinis", or start at [Hemi
                 <img alt="Gonocerus acuteangulatus on rose at the London Wetland Centre. © Laurence Livermore"
 		    title="Gonocerus acuteangulatus on rose at the London Wetland Centre. © Laurence Livermore"
                     src="https://sfg.taxonworks.org/s/2ds4ot"
-                    style="border-style: none; border-radius: 15px";>
+                    style="border-style: none;">
                 <div style="text-align: center">
                     <em>Gonocerus acuteangulatus</em>
                 </div>
@@ -24,8 +24,8 @@ _Try searching for "Acanthocephala", "Acanthocephala affinis", or start at [Hemi
             <td>
                 <img alt="Camptopus lateralis. Photo by Anna N. Chapman"
 		    title="Camptopus lateralis. Photo by Anna N. Chapman"
-                    src="https://sfg.taxonworks.org/s/isjjd7"
-                    style="border-style: none; border-radius: 15px;">
+                    src=""
+                    style="border-style: none;">
                 <div style="text-align: center">
                     <em>Camptopus lateralis</em>
                 </div>
@@ -33,8 +33,8 @@ _Try searching for "Acanthocephala", "Acanthocephala affinis", or start at [Hemi
             <td>
                 <img alt="Boisea trivittata. Photo by Robb Hannawacker"
 		    title="Boisea trivittata. Photo by Robb Hannawacker"
-                    src="https://sfg.taxonworks.org/s/uxxswl"
-                    style="border-style: none; border-radius: 15px;">
+                    src=""
+                    style="border-style: none;">
                 <div style="text-align: center">
                     <em>Boisea trivittata</em>
                 </div>
@@ -42,8 +42,8 @@ _Try searching for "Acanthocephala", "Acanthocephala affinis", or start at [Hemi
             <td>
                 <img alt="Corizus hyoscyami. Photo by Jean-Paul Boerekamps"
 		    title="Corizus hyoscyami. Photo by Jean-Paul Boerekamps"
-                    src="https://sfg.taxonworks.org/s/zcwcall"
-                    style="border-style: none; border-radius: 15px;">
+                    src=""
+                    style="border-style: none;">
                 <div style="text-align: center">
                     <em>Corizus hyoscyami</em>
                 </div>
@@ -51,8 +51,8 @@ _Try searching for "Acanthocephala", "Acanthocephala affinis", or start at [Hemi
             <td>
                 <img alt="Pachylis heteropus. Photo by Andrew J. Crawford"
 		    title="Pachylis heteropus. Photo by Andrew J. Crawford"
-                    src="https://sfg.taxonworks.org/s/6n04ja"
-                    style="border-style: none; border-radius: 15px;">
+                    src=""
+                    style="border-style: none;">
                 <div style="text-align: center">
                     <em>Pachylis heteropus</em>
                 </div>
