@@ -21,40 +21,53 @@ As of August 2023 all data in the former Species File Websites were frozen and s
 _This Species File functionality and content is serviced in part by the Species File Group._
 * The Coreoidea Species File Team has received funding from The Leverhulme Trust.
 
+
+
+
+<td valign="top">
+                <img alt="Leverhulme_Trust_CMYK_blue.jpg"
+		    title="Blue Leverhulme Trust Logo"
+                    src=""
+                    style="border-style: none;">
+            </td>
+
+
+
+
+
 ## Contributors
 
 |name|role|affiliation|note|ORCiD|
 |:----|:----|:----|:----|:----|
-| Mick Webb | Author, Founder | Curator of Auchenorrhyncha and Heteroptera, The Natural History Museum, London | | [ORCiD](https://orcid.org/0000-0002-1312-6142)|
+| Mick Webb | Founder | Curator of Auchenorrhyncha and Heteroptera, The Natural History Museum, London | | [ORCiD](https://orcid.org/0000-0002-1312-6142)|
 | Bill Dolling| Compiler, Core Team ||||
 | Valérie Lemaître | Editor and Information Assistant, Core Team |||[ORCiD](https://orcid.org/0000-0003-4802-2711)|
 | Laurence Livermore | Editor and Photographer, Core Team  |||[ORCiD](https://orcid.org/0000-0002-7341-1842)|
 | Tristan Bantock | Photographer and Editor (2011-2012), Support Team ||||
 | Paul Brock| Editor (2011) and Photographer, Support Team ||||
-| Shaheenara Chowdhury| Photographer (2012), Support Team ||||
+| Shaheenara Chowdhury*| Photographer (2012), Support Team and Curation Team (2006-2007) ||||
 | Stuart Cole| Editor (2012) and Photographer (2014), Support Team ||||
-| Holly Dawson| Photographer (2011), Support Team ||||
-| Elizabeth Livermore| Photographer (2007) and Image Editor (2011-2012), Support Team ||||
-| Joan Marmont| Image Editor (2010), Support Team ||||
-| Malin Nikunlassi| Logo Designer (2010), Support Team ||||
+| Holly Dawson*| Photographer (2011), Support Team ||||
+| Elizabeth Livermore*| Photographer (2007) and Image Editor (2011-2012), Support Team ||||
+| Joan Marmont*| Image Editor (2010), Support Team ||||
+| Malin Nikunlassi*| Logo Designer (2010), Support Team ||||
 | Gerardo Mazzetta| Photographer (2012), Support Team ||||
-| Pierre Pionnié|Literature Assistant (2010), Support Team ||||
-| Rose Stainthorpe| Photographer (2010-2011) , Support Team ||||
-| Ryan Patel | Curation Team ||||
-| Cynthia Byam-Cook | Curation Team ||||
-| Shaheenara Chowdhury | Curation Team ||||
-| Ben Fisher (2006) | Curation Team ||||
-| Olivia Fraser-Cobbett (2010) | Curation Team ||||
-| Sarah Hickman (2011) | Curation Team ||||
+| Pierre Pionnié*|Literature Assistant (2010), Support Team ||||
+| Rose Stainthorpe*| Photographer (2010-2011) , Support Team ||||
+| Ryan Patel* | Curation Team (2006) ||||
+| Cynthia Byam-Cook* | Curation Team ||||
+| Ben Fisher* | Curation Team (2006) ||||
+| Olivia Fraser-Cobbett* | Curation Team (2010) ||||
+| Sarah Hickman* | Curation Team (2011) ||||
 | Ken Merrifield | Curation Team ||||
-| Rita Merrifield | Curation Team ||||
-| Gwen Owen Jones (2011) | Curation Team ||||
-| Norman Parr | Curation Team ||||
-| Akshay Pau (2012) | Curation Team ||||
-| Derice Reid (2012) | Curation Team ||||
-| Cyril Smith | Curation Team ||||
+| Rita Merrifield* | Curation Team ||||
+| Gwen Owen Jones* | Curation Team (2011) ||||
+| Norman Parr* | Curation Team ||||
+| Akshay Pau*  | Curation Team (2012) ||||
+| Derice Reid*  | Curation Team (2012) ||||
+| Cyril Smith* | Curation Team ||||
 | Naomi Tobi | Curation Team ||||
-| Charlotte Willoughby (2012) | Curation Team ||||
+| Charlotte Willoughby* | Curation Team (2012) ||||
 
 * _An \* next to a name denotes a past contributor, now inactive._
 * Names of the team members are given in alphabetical order of surname; all contributions are essential to the success of the project and greatly appreciated. 
