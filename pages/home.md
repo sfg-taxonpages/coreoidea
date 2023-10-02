@@ -15,7 +15,7 @@ _Try searching for "Acanthocephala", "Acanthocephala affinis", or start at [Hemi
             <td valign="top">
                 <img alt="Gonocerus acuteangulatus on rose at the London Wetland Centre. © Laurence Livermore"
 		    title="Gonocerus acuteangulatus on rose at the London Wetland Centre. © Laurence Livermore"
-                    src="https://sfg.taxonworks.org/s/2ds4ot"
+                    src=""
                     style="border-style: none;">
                 <div style="text-align: center">
                     <em>Gonocerus acuteangulatus</em>
