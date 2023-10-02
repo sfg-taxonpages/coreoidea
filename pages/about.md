@@ -27,7 +27,7 @@ _This Species File functionality and content is serviced in part by the Species 
 <td valign="top">
                 <img alt="Leverhulme_Trust_CMYK_blue.jpg"
 		    title="Blue Leverhulme Trust Logo"
-                    src=""
+                    src="https://sfg.taxonworks.org/system/images/image_files/001/044/166/medium/leverhulme_trust_cmyk_blue.jpg?1696264726"
                     style="border-style: none;">
             </td>
 
